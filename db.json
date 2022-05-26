@@ -4,9 +4,9 @@
       { "id": 1, "title": "TheGreenCodes: Unit testing in Vue" , "content": "Building blocks to test driven development", "complete": false},
       { "id": 2, "title": "TheGreenCodes: Tests must fail", "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ", "complete": false },
       { "id": 3, "title": "TheGreenCodes: Tests must also pass", "content": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.", "complete": false },
-      { "id": 4, "title": "Item 4", "content": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.", "complete": false },
-      { "id": 5, "title": "Item 5", "content": "Lacus luctus accumsan tortor posuere ac ut.", "complete": false },
-      { "id": 6, "title": "Item 6", "content": "Ullamcorper a lacus vestibulum sed arcu non odio. Gravida arcu ac tortor dignissim convallis aenean et. ", "complete": false },
+      { "id": 4, "title": "Software Engineering Architectural patterns", "content": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.", "complete": false },
+      { "id": 5, "title": "Data Structures: The Linear non-primitives", "content": "Lacus luctus accumsan tortor posuere ac ut.", "complete": false },
+      { "id": 6, "title": "The Era of the Builder", "content": "Ullamcorper a lacus vestibulum sed arcu non odio. Gravida arcu ac tortor dignissim convallis aenean et. ", "complete": false },
       { "id": 7, "title": "Item 7", "content": "Et molestie ac feugiat sed lectus vestibulum mattis ullamcorper velit. ", "complete": false },
       { "id": 8, "title": "Item 8", "content": "Elementum curabitur vitae nunc sed velit. In dictum non consect", "complete": false }
     ]
